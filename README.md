@@ -26,7 +26,7 @@ Add your API key in your services config file with the key `tel-search.secret`:
             'secret' => 'YOUR_SECRET_API_KEY'
         ],
     ...
-``
+```
 
 ## Usage
 

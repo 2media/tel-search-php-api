@@ -28,5 +28,4 @@ class Response
 
         return $results;
     }
-
 }
