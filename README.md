@@ -4,7 +4,7 @@ A simple PHP API wrapper for http://tel.search.ch. A valid API key is required!
 
 ## Installation
 
-Download the latest release or install it with composer (`composer require twomedia\tel-search-php-api`)
+Download the latest release or install it with composer (`composer require twomedia/tel-search-php-api`)
 
 ### Laravel
 
